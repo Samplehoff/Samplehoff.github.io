@@ -1,0 +1,22 @@
+body {
+	background-color: #B2E9FD;
+}
+
+.header h2 {
+	color: #DC4247;
+}
+
+.header p {
+	color: #50524F;
+}
+
+.results {
+	margin-top: 20px;
+}
+
+.movie {
+	display: inline-flex;
+	padding: 20px;
+	margin: 10px;
+}
+
